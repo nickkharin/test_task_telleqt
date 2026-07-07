@@ -1,0 +1,40 @@
+Import started
+
+Processed order 1001
+Processed order 1002
+Processed order 1003
+
+Rejected order 1004:
+Order too old
+
+Rejected order 1005:
+Unsupported currency
+
+Rejected order 1006:
+Negative amount
+
+Processed order 1007
+
+Processed order 1008
+
+Rejected order 1008:
+Duplicate order
+
+Processed order 1009
+
+Processed order 1010
+
+Processed order 1011
+
+Processed order 1012
+
+Processed order 1013
+
+Processed order 1014
+
+Summary
+
+Total rows: 15
+Imported rows: 11
+Rejected rows: 4
+Imported amount: 1003574.99
