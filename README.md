@@ -45,6 +45,24 @@ test_task_tel/
 
 ---
 
+## QA Report
+
+The repository includes a complete QA assessment report:
+
+- `qa_report.pdf`
+
+The report contains:
+
+- requirements review (assumptions, ambiguities, questions, and risks);
+- test strategy;
+- imported data validation results;
+- automation overview;
+- bug reports;
+- automation execution results;
+- overall conclusions.
+
+---
+
 ## How to Run
 
 Run the automated validation tests:
