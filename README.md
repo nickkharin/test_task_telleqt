@@ -29,22 +29,6 @@ The project requires only `pytest`. All other modules used by the validation cod
 
 ---
 
-## Project Structure
-
-```text
-test_task_tel/
-├── orders.csv
-├── imported_orders.csv
-├── import_log.log
-├── requirements.txt
-├── order_import_validator.py
-├── test_order_import_validation.py
-├── qa_report.pdf
-└── README_RUN_AUTOMATION.md
-```
-
----
-
 ## QA Report
 
 The repository includes a complete QA assessment report:
